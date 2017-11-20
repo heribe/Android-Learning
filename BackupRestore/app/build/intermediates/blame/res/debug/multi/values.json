@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\BackupRestore\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\BackupRestore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 755,
+                        "endColumn": 43,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 47,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\BackupRestore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 896,
+                        "endColumn": 45,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 67,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\BackupRestore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 689,
+                        "endColumn": 65,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 47,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\BackupRestore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 849,
+                        "endColumn": 45,
+                        "endOffset": 892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 50,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\BackupRestore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 942,
+                        "endColumn": 48,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 51,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\BackupRestore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 799,
+                        "endColumn": 49,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 58,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\BackupRestore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1039,
+                        "endColumn": 56,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 48,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\BackupRestore\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 991,
+                        "endColumn": 46,
+                        "endOffset": 1035
+                    }
+                }
+            }
+        ]
+    }
+]

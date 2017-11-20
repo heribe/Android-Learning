@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bacon_label">Bacon</string>
+    <string name="extras_text">Extras:</string>
+    <string name="filling_text">Choose a sandwich filling:</string>
+    <string name="hummus_label">Hummus</string>
+    <string name="mayo_text">Mayonnaise\?</string>
+    <string name="pastrami_label">Pastrami</string>
+    <string name="restore_text">Restore last data</string>
+    <string name="tomato_text">Tomato\?</string>
+</resources>
